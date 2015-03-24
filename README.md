@@ -1,4 +1,6 @@
 # MyFirstRepo
 this is MyFirstRepo repo
 
-Edite 1st time
+Edite 2nd time
+
+Added 2nd time
